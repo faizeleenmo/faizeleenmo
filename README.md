@@ -1,16 +1,36 @@
-## Hi there 👋
 
-<!--
-**faizeleenmo/faizeleenmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Faizeleen! 👋
 
-Here are some ideas to get you started:
+### Project Manager | AI & Data Operations | Aspiring Full-Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Project Manager with experience managing data annotation, AI, NLP and multilingual data projects.
+
+I enjoy working with technology, collaborating with technical teams, and exploring how software can solve real-world problems.
+
+Currently expanding my technical skills through hands-on development and building personal projects.
+
+### 🛠️ Technologies I'm Exploring
+
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
+- Supabase
+- Git & GitHub
+
+### 🚀 Current Projects
+
+**WauBooks Generator**
+
+Developing a web-based application for creating and managing children's books, using modern web technologies.
+
+### 🌱 Currently Learning
+
+- Full-stack web development
+- Database management
+- Software development workflows
+- AI-powered application development
+
+---
+
+Thanks for visiting my profile!
