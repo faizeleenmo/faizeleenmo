@@ -20,7 +20,7 @@ Currently expanding my technical skills through hands-on development and buildin
 
 ### 🚀 Current Projects
 
-**WauBooks Generator**
+**Books Generator**
 
 Developing a web-based application for creating and managing children's books, using modern web technologies.
 
